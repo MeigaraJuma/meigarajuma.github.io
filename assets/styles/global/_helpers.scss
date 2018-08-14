@@ -1,0 +1,33 @@
+.no-scroll {
+  overflow: hidden !important;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.reset {
+  margin: 0;
+  padding: 0;
+}
+
+.no-padding {
+  padding: 0 !important;
+}
+
+/* text */
+.text-white {
+  color: white;
+}
+
+/* position */
+.absolute {
+  position: absolute;
+}
+
+/* list */
+.no-list {
+  li {
+    list-style: none;
+  }
+}
